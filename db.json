@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "id": "2",
+      "text": "Who oversees the Ministry of External Affairs in 2024?",
+      "options": [
+        {
+          "id": 1,
+          "text": "Amit Shah",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "text": "S. Jaishankar",
+          "isCorrect": true
+        },
+        {
+          "id": 3,
+          "text": "Hardeep Singh Puri",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "text": "Rajnath Singh",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "text": "Which minister handles the Ministry of Road Transport and Highways?",
+      "options": [
+        {
+          "id": 1,
+          "text": "Nitin Gadkari",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "text": "Piyush Goyal",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "text": "Dharmendra Pradhan",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "text": "Mansukh Mandaviya",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "text": "Who is responsible for the Ministry of Cooperation?",
+      "options": [
+        {
+          "id": 1,
+          "text": "Smriti Irani",
+          "isCorrect": false
+        },
+        {
+          "id": 2,
+          "text": "Dharmendra Pradhan",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "text": "Nitin Gadkari",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "text": "Amit Shah",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "text": "Which minister manages the Ministry of Health and Family Welfare?",
+      "options": [
+        {
+          "id": 1,
+          "text": "Mansukh Mandaviya",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "text": "Giriraj Singh",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "text": "Anurag Thakur",
+          "isCorrect": false
+        },
+        {
+          "id": 4,
+          "text": "Bhupendra Yadav",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "523d",
+      "text": "Which city is near to SRM AP",
+      "options": [
+        {
+          "id": 0,
+          "text": "Ongole",
+          "isCorrect": false
+        },
+        {
+          "id": 1,
+          "text": "Vijayawada",
+          "isCorrect": true
+        },
+        {
+          "id": 2,
+          "text": "Guntur",
+          "isCorrect": false
+        },
+        {
+          "id": 3,
+          "text": "Vizag",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
